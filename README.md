@@ -21,7 +21,7 @@ The goal of this project is to create a simple expense tracker in which a group 
     - Structure same as add expense.
 4. Ability to delete an expense within a group
 5. Ability to get the balance of a group such that the balances are simplified. which means -
-    - If A,B,C are in a group such that A owes B Rs 100, B owes C Rs 100 and C owes A Rs 100, the balance summary should show that A owes C Rs 100
+    - If A,B,C are in a group such that A owes B Rs 100, B owes C Rs 100, the balance summary should show that A owes C Rs 100
     - The structure should be -
 
     	    {
