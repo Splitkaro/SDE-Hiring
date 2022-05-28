@@ -15,7 +15,7 @@ The goal of this project is to create a simple expense tracker in which a group 
         {
           "name": "Fruits and Milk",
           "items": [{"name": "milk", "value": 50, "paid_by": [{"A": 40, "B": 10}], "owed_by": [{"A": 20,"B": 20, "C": 10}]},
-                    {"name": "fruits", "value": 50, "paid_by": [{"A": 40}], "owed_by": [{"A": 10,"B": 30, "C": 10}]}]
+                    {"name": "fruits", "value": 50, "paid_by": [{"A": 50}], "owed_by": [{"A": 10,"B": 30, "C": 10}]}]
         }
 3. Ability to update an expense within a group
     - Structure same as add expense.
